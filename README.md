@@ -1,5 +1,5 @@
 # fopen
-CLI for displaying the number of files and folders of current path. 
+CLI for displaying the number of files and folders in current terminal path. 
 
 `fopen`
 
